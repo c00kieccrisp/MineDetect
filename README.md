@@ -1,4 +1,4 @@
-# Crypto Mining Detection Script
+# MineDetect: The Straightforward Way to Detect Crypto Mining!
 
 ## Description
 This script detects potential crypto-mining activities on virtual machines by monitoring:
